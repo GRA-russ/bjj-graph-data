@@ -47,7 +47,7 @@
     "label": "Guard Pull",
     "data": {
       "source": 1,
-      "target": 14,
+      "target": 17,
       "label": "Guard Pull",
       "type": "transition",
       "link": "https://www.youtube.com/results?search_query=bjj+how+to+pull+guard"
@@ -178,7 +178,7 @@
   {
     "label": "Tripod Sweep",
     "data": {
-      "source": 14,
+      "source": 17,
       "target": 3,
       "label": "Tripod Sweep",
       "type": "transition",
@@ -189,7 +189,7 @@
   {
     "label": "Idiot Sweep",
     "data": {
-      "source": 14,
+      "source": 17,
       "target": 3,
       "label": "Idiot Sweep",
       "type": "transition",
