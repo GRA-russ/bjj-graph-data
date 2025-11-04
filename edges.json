@@ -1,0 +1,816 @@
+[
+  {
+    "label": "Double Leg",
+    "data": {
+      "source": 1,
+      "target": 7,
+      "label": "Double Leg",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+double+leg+takedown"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Single Leg",
+    "data": {
+      "source": 1,
+      "target": 7,
+      "label": "Single Leg",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+singe+leg"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Ouchi gari",
+    "data": {
+      "source": 1,
+      "target": 7,
+      "label": "Ouchi gari",
+      "type": "transition",
+      "link": "https://youtu.be/EgMlN8JJCy4?si=4QS5AsTvAUbYm0Xm"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Seoi Otoshi",
+    "data": {
+      "source": 1,
+      "target": 7,
+      "label": "Seoi Otoshi",
+      "type": "transition",
+      "link": "https://youtu.be/OeDJBcZOqn4?si=zo7EnG543JynQmBb"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Guard Pull",
+    "data": {
+      "source": 1,
+      "target": 14,
+      "label": "Guard Pull",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+how+to+pull+guard"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Torenado Pass",
+    "data": {
+      "source": 3,
+      "target": 7,
+      "label": "Torenado Pass",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+torenado+pass"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Knee Cut Pass",
+    "data": {
+      "source": 3,
+      "target": 7,
+      "label": "Knee Cut Pass",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+knee+cut+pass"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Double Under Pass",
+    "data": {
+      "source": 3,
+      "target": 7,
+      "label": "Double Under Pass",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+double+under+pass"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Standing Guard Break",
+    "data": {
+      "source": 4,
+      "target": 3,
+      "label": "Standing Guard Break",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+standing+guard+break"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Body Lock Pass",
+    "data": {
+      "source": 3,
+      "target": 7,
+      "label": "Body Lock Pass",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+body+lock+pass"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Half Guard Tripod Pass",
+    "data": {
+      "source": 6,
+      "target": 7,
+      "label": "Half Guard Tripod Pass",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+half+guard+tripod+pass"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Side Control to North South",
+    "data": {
+      "source": 7,
+      "target": 10,
+      "label": "Side Control to North South",
+      "type": "transition",
+      "link": "https://youtu.be/7u0vWGme0rE?si=NMz6nShbii2c487N"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Side Control to Mount",
+    "data": {
+      "source": 7,
+      "target": 11,
+      "label": "Side Control to Mount",
+      "type": "transition",
+      "link": "https://youtu.be/7u0vWGme0rE?si=NMz6nShbii2c487N"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Side Control to Kesa Gatame",
+    "data": {
+      "source": 7,
+      "target": 8,
+      "label": "Side Control to Kesa Gatame",
+      "type": "transition",
+      "link": "https://youtu.be/7u0vWGme0rE?si=NMz6nShbii2c487N"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Mount to Back Control",
+    "data": {
+      "source": 11,
+      "target": 27,
+      "label": "Mount to Back Control",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+mount+to+back"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Turtle to Back Control",
+    "data": {
+      "source": 12,
+      "target": 27,
+      "label": "Turtle to Back Control",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+taking+the+back+from+turtle"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Tripod Sweep",
+    "data": {
+      "source": 14,
+      "target": 3,
+      "label": "Tripod Sweep",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+tripod+sweep"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Idiot Sweep",
+    "data": {
+      "source": 14,
+      "target": 3,
+      "label": "Idiot Sweep",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+idiot+sweep"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Double Ankle Sweep",
+    "data": {
+      "source": 16,
+      "target": 11,
+      "label": "Double Ankle Sweep",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+double+ankle+sweep"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Lumberjack Sweep",
+    "data": {
+      "source": 16,
+      "target": 11,
+      "label": "Lumberjack Sweep",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+lumberjack+sweep"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Lotus Sweep",
+    "data": {
+      "source": 16,
+      "target": 11,
+      "label": "Lotus Sweep",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+flower+sweep"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Hip Bump Sweep",
+    "data": {
+      "source": 16,
+      "target": 11,
+      "label": "Hip Bump Sweep",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+hip+bump+sweep"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Scissor Sweep",
+    "data": {
+      "source": 16,
+      "target": 11,
+      "label": "Scissor Sweep",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+scissor+sweep"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Closed Guard Arm Drag Back Take",
+    "data": {
+      "source": 16,
+      "target": 27,
+      "label": "Closed Guard Arm Drag Back Take",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+closed+guard+arm+drag+back+take"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Sumi Gaeshi",
+    "data": {
+      "source": 18,
+      "target": 11,
+      "label": "Sumi Gaeshi",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+butterfly+sweep"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Double Underhook Sweep",
+    "data": {
+      "source": 17,
+      "target": 11,
+      "label": "Double Underhook Sweep",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+butterfly+double+underhook+sweep"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Butterfly Arm Drag Back Take ",
+    "data": {
+      "source": 17,
+      "target": 27,
+      "label": "Butterfly Arm Drag Back Take ",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+butterfly+arm+drag+back+take"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Dog Fight Sweep",
+    "data": {
+      "source": 19,
+      "target": 6,
+      "label": "Dog Fight Sweep",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+half+guard+dogfight+sweep"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Knee Lever Sweep",
+    "data": {
+      "source": 19,
+      "target": 6,
+      "label": "Knee Lever Sweep",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+john+wayne+sweep"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Electric Chair Sweep",
+    "data": {
+      "source": 19,
+      "target": 6,
+      "label": "Electric Chair Sweep",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+electric+chair+sweep"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Half Guard Back Take",
+    "data": {
+      "source": 19,
+      "target": 27,
+      "label": "Half Guard Back Take",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+bottom+half+guard+escape"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Shrimp Escape",
+    "data": {
+      "source": 20,
+      "target": 16,
+      "label": "Shrimp Escape",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+side+control+shrimp+escape"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Elbow Push Escape",
+    "data": {
+      "source": 20,
+      "target": 7,
+      "label": "Elbow Push Escape",
+      "type": "transition",
+      "link": "https://youtu.be/11NrA-Bclls?si=Jk6urdB3RFSQg-Ho"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Underhook Escape",
+    "data": {
+      "source": 20,
+      "target": 7,
+      "label": "Underhook Escape",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+side+control+underhook+escape"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Overhead Roll Escape",
+    "data": {
+      "source": 20,
+      "target": 7,
+      "label": "Overhead Roll Escape",
+      "type": "transition",
+      "link": "https://youtu.be/fM6yk844Vow?si=qurExqEPtQYH8AsX"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Frame and Shimp Kesa Gatame Ecape",
+    "data": {
+      "source": 21,
+      "target": 16,
+      "label": "Frame and Shimp Kesa Gatame Ecape",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+kuzure+kesa+gatame+frame+shimp+escape"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Pendulum Escape",
+    "data": {
+      "source": 23,
+      "target": 20,
+      "label": "Pendulum Escape",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+north+south+pendulum+escape+"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Knee on Belly Escapes",
+    "data": {
+      "source": 22,
+      "target": 20,
+      "label": "Knee on Belly Escapes",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+bottom+knee+on+belly+escape+"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Mount Trap and Roll Escape",
+    "data": {
+      "source": 24,
+      "target": 4,
+      "label": "Mount Trap and Roll Escape",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+trap+and+roll+mount+escape"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Mount Elbow Escape",
+    "data": {
+      "source": 24,
+      "target": 19,
+      "label": "Mount Elbow Escape",
+      "type": "transition",
+      "link": "https://youtu.be/AhJCY3LDSNE?si=YpNZlAx6bjBz7SAR"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Turtle Makikomi Escape",
+    "data": {
+      "source": 25,
+      "target": 7,
+      "label": "Turtle Makikomi Escape",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+turtle+makikomi+escape"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Turtle Granby Escape",
+    "data": {
+      "source": 25,
+      "target": 16,
+      "label": "Turtle Granby Escape",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+turtle+gramby+escape"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Back Control Escapes",
+    "data": {
+      "source": 28,
+      "target": 4,
+      "label": "Back Control Escapes",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+back+control+escape"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Armbar from Closed Guard",
+    "data": {
+      "source": 16,
+      "target": 29,
+      "label": "Armbar from Closed Guard",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+closed+guard+armbar"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Triangle Closed Guard",
+    "data": {
+      "source": 16,
+      "target": 30,
+      "label": "Triangle Closed Guard",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+closed+guard+triangle"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Kimura Closed Guard",
+    "data": {
+      "source": 16,
+      "target": 33,
+      "label": "Kimura Closed Guard",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+closed+guard+kimura"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Lapel Strangles Closed Guard",
+    "data": {
+      "source": 16,
+      "target": 32,
+      "label": "Lapel Strangles Closed Guard",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+closed+guard+lapel+chokes"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Armbar Mount",
+    "data": {
+      "source": 11,
+      "target": 29,
+      "label": "Armbar Mount",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+mounted+armbar"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Triangle Mount",
+    "data": {
+      "source": 11,
+      "target": 30,
+      "label": "Triangle Mount",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+mounted+armbar"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Americana Mount",
+    "data": {
+      "source": 11,
+      "target": 34,
+      "label": "Americana Mount",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+mounted+americana"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Lapel Strangles Mount",
+    "data": {
+      "source": 11,
+      "target": 32,
+      "label": "Lapel Strangles Mount",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+mounted+cross+choke"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Kata Gatame",
+    "data": {
+      "source": 11,
+      "target": 45,
+      "label": "Kata Gatame",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+mounted+kata+gatame"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Rear Naked Choke Back Control",
+    "data": {
+      "source": 27,
+      "target": 35,
+      "label": "Rear Naked Choke Back Control",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+rear+naked+choke"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Armbar Back Control",
+    "data": {
+      "source": 27,
+      "target": 29,
+      "label": "Armbar Back Control",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+armbar+from+back"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Triangle Back Control",
+    "data": {
+      "source": 27,
+      "target": 30,
+      "label": "Triangle Back Control",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+triangle+from+back"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Kimura Side Control",
+    "data": {
+      "source": 7,
+      "target": 33,
+      "label": "Kimura Side Control",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+kimura+side+control"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Americana Side Control",
+    "data": {
+      "source": 7,
+      "target": 34,
+      "label": "Americana Side Control",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+americana+side+control"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Papercutter Choke Side Control",
+    "data": {
+      "source": 7,
+      "target": 32,
+      "label": "Papercutter Choke Side Control",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+Papercutter+Choke+Side+Control"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Armbar Side Control",
+    "data": {
+      "source": 7,
+      "target": 29,
+      "label": "Armbar Side Control",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+armbar+Side+Control"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "North South Choke",
+    "data": {
+      "source": 10,
+      "target": 36,
+      "label": "North South Choke",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+north+south+choke"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Armbar Top Knee on Belly",
+    "data": {
+      "source": 9,
+      "target": 29,
+      "label": "Armbar Top Knee on Belly",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+armbar+knee+on+belly"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Baseball Bat Choke Knee on Belly",
+    "data": {
+      "source": 9,
+      "target": 32,
+      "label": "Baseball Bat Choke Knee on Belly",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+baseball+bat+choke+knee+on+belly"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Armbar Top Kesa Gatame",
+    "data": {
+      "source": 8,
+      "target": 29,
+      "label": "Armbar Top Kesa Gatame",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+armbar+kesa+gatame"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Chest Compression Kesa Gatame",
+    "data": {
+      "source": 8,
+      "target": 36,
+      "label": "Chest Compression Kesa Gatame",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+chest+compression+choke+kesa+gatame"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Guillotine Standing",
+    "data": {
+      "source": 1,
+      "target": 36,
+      "label": "Guillotine Standing",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+standing+guillotine"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Armbar Defense",
+    "data": {
+      "source": 37,
+      "target": 7,
+      "label": "Armbar Defense",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+ambar+escapes"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Triangle Defense",
+    "data": {
+      "source": 38,
+      "target": 7,
+      "label": "Triangle Defense",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+triangle+escapes"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Kata Gatame Defense",
+    "data": {
+      "source": 39,
+      "target": 12,
+      "label": "Kata Gatame Defense",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+arm+triangle+escapes"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Lapel Strangles Defense",
+    "data": {
+      "source": 40,
+      "target": 4,
+      "label": "Lapel Strangles Defense",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+cross+choke+defense"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Kimura Defense",
+    "data": {
+      "source": 41,
+      "target": 4,
+      "label": "Kimura Defense",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+kimura+defense"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Kimura Defense",
+    "data": {
+      "source": 41,
+      "target": 23,
+      "label": "Kimura Defense",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+kimura+defense"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Americana Defense",
+    "data": {
+      "source": 42,
+      "target": 20,
+      "label": "Americana Defense",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+americana+defense"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Rear Naked Choke Defense",
+    "data": {
+      "source": 43,
+      "target": 28,
+      "label": "Rear Naked Choke Defense",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+rnc+defense"
+    },
+    "group": "edges"
+  },
+  {
+    "label": "Guillotine Defense",
+    "data": {
+      "source": 44,
+      "target": 7,
+      "label": "Guillotine Defense",
+      "type": "transition",
+      "link": "https://www.youtube.com/results?search_query=bjj+guillotine+escape"
+    },
+    "group": "edges"
+  }
+]

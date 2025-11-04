@@ -1,0 +1,314 @@
+[
+  {
+    "data": {
+      "id": 1,
+      "label": "Standup",
+      "group": "standup"
+    },
+    "group": "nodes"
+  },
+  {
+    "data": {
+      "id": 3,
+      "label": "Top Open Guard",
+      "group": "top_guard"
+    },
+    "group": "nodes"
+  },
+  {
+    "data": {
+      "id": 4,
+      "label": "Top Closed Guard",
+      "group": "top_guard"
+    },
+    "group": "nodes"
+  },
+  {
+    "data": {
+      "id": 6,
+      "label": "Top Half Guard",
+      "group": "top_guard"
+    },
+    "group": "nodes"
+  },
+  {
+    "data": {
+      "id": 7,
+      "label": "Top Side Control",
+      "group": "top_pin"
+    },
+    "group": "nodes"
+  },
+  {
+    "data": {
+      "id": 8,
+      "label": "Top Kesa Gatame",
+      "group": "top_pin"
+    },
+    "group": "nodes"
+  },
+  {
+    "data": {
+      "id": 9,
+      "label": "Top Knee on Belly",
+      "group": "top_pin"
+    },
+    "group": "nodes"
+  },
+  {
+    "data": {
+      "id": 10,
+      "label": "Top North South",
+      "group": "top_pin"
+    },
+    "group": "nodes"
+  },
+  {
+    "data": {
+      "id": 11,
+      "label": "Top Mount",
+      "group": "top_pin"
+    },
+    "group": "nodes"
+  },
+  {
+    "data": {
+      "id": 12,
+      "label": "Top Turtle",
+      "group": "top_pin"
+    },
+    "group": "nodes"
+  },
+  {
+    "data": {
+      "id": 14,
+      "label": "Open Guard vs. Standing",
+      "group": "bottom_guard"
+    },
+    "group": "nodes"
+  },
+  {
+    "data": {
+      "id": 16,
+      "label": "Bottom Closed Guard",
+      "group": "bottom_guard"
+    },
+    "group": "nodes"
+  },
+  {
+    "data": {
+      "id": 17,
+      "label": "Bottom Open Guard",
+      "group": "bottom_guard"
+    },
+    "group": "nodes"
+  },
+  {
+    "data": {
+      "id": 18,
+      "label": "Bottom Butterfly Guard",
+      "group": "bottom_guard"
+    },
+    "group": "nodes"
+  },
+  {
+    "data": {
+      "id": 19,
+      "label": "Bottom Half Guard",
+      "group": "bottom_guard"
+    },
+    "group": "nodes"
+  },
+  {
+    "data": {
+      "id": 20,
+      "label": "Bottom Side Control",
+      "group": "bottom_pin"
+    },
+    "group": "nodes"
+  },
+  {
+    "data": {
+      "id": 21,
+      "label": "Bottom Kesa Gatame",
+      "group": "bottom_pin"
+    },
+    "group": "nodes"
+  },
+  {
+    "data": {
+      "id": 22,
+      "label": "Bottom Knee on Belly",
+      "group": "bottom_pin"
+    },
+    "group": "nodes"
+  },
+  {
+    "data": {
+      "id": 23,
+      "label": "Bottom North South",
+      "group": "bottom_pin"
+    },
+    "group": "nodes"
+  },
+  {
+    "data": {
+      "id": 24,
+      "label": "Bottom Mount",
+      "group": "bottom_pin"
+    },
+    "group": "nodes"
+  },
+  {
+    "data": {
+      "id": 25,
+      "label": "Bottom Turtle",
+      "group": "bottom_pin"
+    },
+    "group": "nodes"
+  },
+  {
+    "data": {
+      "id": 27,
+      "label": "Back Control Offense",
+      "group": "top_pin"
+    },
+    "group": "nodes"
+  },
+  {
+    "data": {
+      "id": 28,
+      "label": "Back Control Defense",
+      "group": "bottom_pin"
+    },
+    "group": "nodes"
+  },
+  {
+    "data": {
+      "id": 29,
+      "label": "Armbar Offense",
+      "group": "sub_offense"
+    },
+    "group": "nodes"
+  },
+  {
+    "data": {
+      "id": 30,
+      "label": "Triangle Offense",
+      "group": "sub_offense"
+    },
+    "group": "nodes"
+  },
+  {
+    "data": {
+      "id": 32,
+      "label": "Lapel Strangles Offense",
+      "group": "sub_offense"
+    },
+    "group": "nodes"
+  },
+  {
+    "data": {
+      "id": 33,
+      "label": "Kimura Offense",
+      "group": "sub_offense"
+    },
+    "group": "nodes"
+  },
+  {
+    "data": {
+      "id": 34,
+      "label": "Americna Offense",
+      "group": "sub_offense"
+    },
+    "group": "nodes"
+  },
+  {
+    "data": {
+      "id": 35,
+      "label": "Rear Naked Choke Offense",
+      "group": "sub_offense"
+    },
+    "group": "nodes"
+  },
+  {
+    "data": {
+      "id": 36,
+      "label": "Guillotine Offense",
+      "group": "sub_offense"
+    },
+    "group": "nodes"
+  },
+  {
+    "data": {
+      "id": 37,
+      "label": "Armbar Defense",
+      "group": "sub_defense"
+    },
+    "group": "nodes"
+  },
+  {
+    "data": {
+      "id": 38,
+      "label": "Triangle Defense",
+      "group": "sub_defense"
+    },
+    "group": "nodes"
+  },
+  {
+    "data": {
+      "id": 39,
+      "label": "Kata Gatame Defense",
+      "group": "sub_defense"
+    },
+    "group": "nodes"
+  },
+  {
+    "data": {
+      "id": 40,
+      "label": "Lapel Strangles Defense",
+      "group": "sub_defense"
+    },
+    "group": "nodes"
+  },
+  {
+    "data": {
+      "id": 41,
+      "label": "Kimura Defense",
+      "group": "sub_defense"
+    },
+    "group": "nodes"
+  },
+  {
+    "data": {
+      "id": 42,
+      "label": "Americna Defense",
+      "group": "sub_defense"
+    },
+    "group": "nodes"
+  },
+  {
+    "data": {
+      "id": 43,
+      "label": "Rear Naked Choke Defense",
+      "group": "sub_defense"
+    },
+    "group": "nodes"
+  },
+  {
+    "data": {
+      "id": 44,
+      "label": "Guillotine Defense",
+      "group": "sub_defense"
+    },
+    "group": "nodes"
+  },
+  {
+    "data": {
+      "id": 45,
+      "label": "Kata Gatame Offense",
+      "group": "sub_offense"
+    },
+    "group": "nodes"
+  }
+]
