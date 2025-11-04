@@ -81,14 +81,6 @@
   },
   {
     "data": {
-      "id": 14,
-      "label": "Open Guard vs. Standing",
-      "group": "bottom_guard"
-    },
-    "group": "nodes"
-  },
-  {
-    "data": {
       "id": 16,
       "label": "Bottom Closed Guard",
       "group": "bottom_guard"
